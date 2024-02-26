@@ -60,7 +60,7 @@ version = "0.3"
 
 [build-dependencies.cc]
 version = "^1"
-features = ["parallel"]
+features = ["parallel"]
 
 [features]
 default = ["legacy", "zdict_builder"]
