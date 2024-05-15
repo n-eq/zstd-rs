@@ -59,7 +59,7 @@ features = ["runtime", "which-rustfmt"]
 version = "0.3"
 
 [build-dependencies.cc]
-version = "1.0.88"
+version = "^1"
 features = ["parallel"]
 
 [features]
